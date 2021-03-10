@@ -1,6 +1,7 @@
 Rencana untuk mempelajari Android Developer
 - Mendalami logika bahasa pemrograman di JAVA
-- Mempelajari dart
-- Mencari Kelas online yang membahas tutorial gratis android developer\
+- Mencari Kelas online yang membahas tutorial gratis android developer
 - mempelajari dasar dasar dari Android developer
+  * Mempelajari yang diperlukan android studio
 - Mengikuti kelas online
+  * ikut kelas online Dicoding
