@@ -1,0 +1,5 @@
+Rencana untuk mempelajari Android Developer
+- Mendalami logika bahasa pemrograman di JAVA
+- Mempelajari dart
+- Mencari Kelas online yang membahas tutorial gratis android developer\
+- mempelajari dasar dasar dari Android developer
