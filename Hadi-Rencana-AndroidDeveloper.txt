@@ -5,6 +5,7 @@ Rencana untuk mempelajari Android Developer
 - mempelajari dasar dasar dari Android developer
   * mempelajari dart
   * memahami flutter
+  * memahami OOP
 - Mengikuti kelas online
   * Mengikuti kelas Hacktiv 8
  - Mempelajari database dari android app
