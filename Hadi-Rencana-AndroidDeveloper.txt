@@ -3,3 +3,4 @@ Rencana untuk mempelajari Android Developer
 - Mempelajari dart
 - Mencari Kelas online yang membahas tutorial gratis android developer\
 - mempelajari dasar dasar dari Android developer
+- Mengikuti kelas online
